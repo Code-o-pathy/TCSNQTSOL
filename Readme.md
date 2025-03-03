@@ -1,4 +1,4 @@
---This repository included solutions for TCS NQT common questions provided by TPO SLRTCE (source: Google Classroom);
+--This repository includes solutions for TCS NQT common questions provided by TPO SLRTCE (source: Google Classroom);
 
 --I have planned to solve one section daily. 
 --1.Number Based
