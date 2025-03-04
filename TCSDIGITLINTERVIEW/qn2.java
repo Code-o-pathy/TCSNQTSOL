@@ -1,6 +1,8 @@
+
 //checking if the array contains duplicate elements;
 import java.util.*;
-public class qn1 {
+
+public class qn2 {
     public static void main(String[] args) {
         int arr[] = { 1221, 4, 4, 122, 433, 1211, 121, 211 };
         boolean ans = recur(arr);
